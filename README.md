@@ -1,2 +1,2 @@
 # Titing
-Titing, a multimodal agent system
+Titing, a multimodal Large language model agent system.
